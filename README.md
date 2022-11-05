@@ -29,4 +29,4 @@ Data Warehousing, and Data Analytics fields across Tech, Finance, and Telecommun
 
 ## Connect with me
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuvapk)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/yuvapk)
