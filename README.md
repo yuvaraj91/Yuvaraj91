@@ -1,8 +1,9 @@
 
 # Hi there 👋
 
-I'm Yuva (he/him). I'm a Data & Analytics Engineer. Currently based in Germany, originally from Malaysia. I have experience working in the BI,
-Data Warehousing, and Data Analytics fields across Tech, Finance, and Telecommunications industries.
+I'm Yuva (he/him). I'm a Data & Analytics Engineer by profession. Currently based in Germany, and originally from Malaysia.
+
+I have experience working in the BI and Data Analytics fields across Tech, Banking, Insurance, and Telecommunications industries.
 
 ## Education
 
