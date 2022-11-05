@@ -21,7 +21,6 @@ Data Warehousing, and Data Analytics fields across Tech, Finance, and Telecommun
 
 
 ## Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/yuvapk)
+[linkedin]: www.linkedin.com/in/yuvapk
