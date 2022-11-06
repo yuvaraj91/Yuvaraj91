@@ -31,4 +31,4 @@ I have experience working in the BI and Data Analytics fields across Tech, Banki
 
 ## Connect with me
 
-[<img src="https://user-images.githubusercontent.com/46146150/200177738-c391c626-d075-45fc-80a2-5e6cde78231a.svg>](www.linkedin.com/in/yuvapk)
+[LinkedIn](www.linkedin.com/in/yuvapk)
