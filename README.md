@@ -26,8 +26,9 @@ I have experience working in the BI and Data Analytics fields across Tech, Banki
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 - Daka lake, lakehouse architecture, data streaming
+- Data modelling
 
 
 ## Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/yuvapk)
+[![li](images/linkedin.svg)](www.linkedin.com/in/yuvapk)
