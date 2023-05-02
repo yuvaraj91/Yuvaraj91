@@ -28,7 +28,3 @@ I have experience working in the BI and Data Analytics fields across Tech, Banki
 - Daka lake, lakehouse architecture, data streaming
 - Data modelling
 
-
-## Connect with me
-
-[<img src="images/linkedin.svg">](https://www.linkedin.com/in/yuvapk)
