@@ -3,7 +3,7 @@
 
 I'm Yuva (he/him). I'm a Data & Analytics Engineer by profession. Based in Germany, and originally from Malaysia.
 
-I have experience working in the BI and Data Analytics fields across Tech, Banking, Insurance, and Telecommunications industries.
+I have experience working in the Data Platform and Analytics fields across Tech, Banking, Insurance, and Telecommunications industries.
 
 ## Education
 
